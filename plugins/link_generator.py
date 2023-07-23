@@ -17,8 +17,13 @@ async def batch(client: Client, message: Message):
         if f_msg_id:
             break
         else:
-            await first_message.reply("❌ Error\n\nthis Forwarded Post is not from my DB Channel or this Link is taken from DB Channel", quote = True)
+            await first_message.reply("lasan", quote = True)
             continue
+            buttons = [
+        [
+            InlineKeyboardButton(
+                "AnimeXyz",
+                url = https://github.com/Trippy07/SC-Video-Compressor-Bot/tree/main)
 
     while True:
         try:
